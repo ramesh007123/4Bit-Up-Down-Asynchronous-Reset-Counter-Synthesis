@@ -70,7 +70,7 @@ used.
 ![Screenshot 2025-05-21 211902](https://github.com/user-attachments/assets/8380457a-614d-4cf8-b5f2-20b81d811716)
 
 #### Power Report:
-![Screenshot 2025-05-21 211920](https://github.com/user-attachments/assets/734560dd-76c3-4deb-9f03-f48968a5f4bb)
+![Screenshot 2025-05-21 211920](https://github.com/user-attachments/assets/0f860e25-defe-4d95-877a-2b3f72eb95d4)
 
 #### Timing Report: 
 ![Screenshot 2025-05-21 211939](https://github.com/user-attachments/assets/ac600ef6-e342-4c6e-9fbf-55e20c1300df)
